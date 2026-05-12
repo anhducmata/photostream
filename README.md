@@ -10,6 +10,7 @@ A Google Photos-style web gallery prototype for uploading, browsing, searching, 
 - PostgreSQL + pgvector schema for metadata, keyword search, and vector search.
 - FastAPI endpoint sketch and Python AI worker pipeline sketch.
 - Architecture, search ranking, API, AI pipeline, and deployment documentation in `docs/architecture.md`.
+- Implementation gap analysis and task checklist in `docs/implementation-tasks.md`.
 
 ## Run locally
 
